@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin:auto;
+
+}
+input{
+    border-radius: 20px;
+    border:5px solid black;
+    font-size: 30px;
+    width:450px;
+    height:60px;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background-color: lightpink;
+    width:75px;
+    height:90px;
+    margin: 5px;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.calculator{
+    background-color: lightblue;
+    border-radius: 50px;
+    border:5px solid lightsalmon;
+    display:inline-block;
+    padding: 20px;
+
+
+}
